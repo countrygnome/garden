@@ -1,0 +1,40 @@
+{
+  "WBUI2": {
+    "settings": {
+        "OpenButton": 4,
+        "HideIcon": false,
+        "HideIconAfter": 60,
+        "IconURL": "https://imgur.com/ycJU2Yw",
+        "DisableIconText": false,
+        "IconPosition": 3,
+        "IconTextColor": 6,
+        "OpenOnStart": true,
+        "OpenOnStartOnlyNewPlayers": true,
+        "UpdateInterval": 12
+      },
+      "tab1": {
+          "layout": 2,
+          "buttontext": "Welcome",
+          "title1": "Weclome to Gnome Garden Chaos",
+          "text1": "Welcome to Gnome Garden Chaos, feature the Primal Chaos mod. Be sure to check out our discord and twitch or kick to be more involved with the community.",
+          "imageurl": "https://imgur.com/ycJU2Yw"
+        }
+  
+        {
+  "links": [
+      {
+        "link1": {
+          "text": "discord",
+          "url": "https://discord.gg/kyfZRvng"
+     }
+      },
+      {
+        "link2": {
+          "text": "kick",
+          "url": "https://kick.com/countrygnome"
+          }
+      },
+      {
+        "link3": {
+          "text": "Twitch",
+          "url": "https://www.twitch.tv/countrygnome"
